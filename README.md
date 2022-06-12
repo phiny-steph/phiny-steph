@@ -2,7 +2,7 @@
 - 👀 I’m interested in becoming a Software Engineer
 - 🌱 I’m currently learning how to code(programming)
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me on twitter
+- 📫 How to reach me on twitter- @Annie_Steph_ and on Linkdeln - http://linkedin.com/in/stephanie-aniche-412a29169
 
 <!---
 phiny-steph/phiny-steph is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
